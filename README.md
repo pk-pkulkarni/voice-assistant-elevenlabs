@@ -6,9 +6,9 @@ A conversational AI **voice assistant** built with [ElevenLabs](https://elevenla
 
 ## 🚀 Features
 
-- **Natural voice conversations** via ElevenLabs' advanced conversational AI
-- Beautiful, responsive UI with speech and text chat
-- FastAPI backend with real-time updates (WebSocket)
+- **Natural voice conversations** via ElevenLabs' advanced conversational AI  
+- Beautiful, responsive UI with speech and text chat  
+- FastAPI backend with real-time updates (WebSocket)  
 - Easy to extend: add knowledge bases, tools, or your own agent logic
 
 ---
@@ -16,7 +16,6 @@ A conversational AI **voice assistant** built with [ElevenLabs](https://elevenla
 ## 📸 Screenshot
 
 ![image](https://github.com/user-attachments/assets/d551ef01-4a01-40ee-8f02-4b866fc47bf3)
-
 
 ---
 
@@ -55,7 +54,7 @@ A conversational AI **voice assistant** built with [ElevenLabs](https://elevenla
     http://localhost:8134/
     ```
 
-3. **Talk** to your agent! Use the mic button for voice.
+3. **Talk** to your agent! Use the mic button for voice or type in the chat box.
 
 ---
 
@@ -66,9 +65,11 @@ You can easily **extend** this assistant by adding new knowledgebases or integra
 ---
 
 ## 📄 Project Structure
+```
 project_folder/
 ├── main.py # FastAPI server, agent integration
 ├── static/
 │ └── index.html # Beautiful responsive frontend
 ├── .env # Your ElevenLabs API keys
 └── README.md
+```
