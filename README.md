@@ -7,7 +7,7 @@ A conversational AI **voice assistant** built with [ElevenLabs](https://elevenla
 ## 🚀 Features
 
 - **Natural voice conversations** via ElevenLabs' advanced conversational AI  
-- Beautiful, responsive UI with speech and text chat  
+- Beautiful, responsive UI with speech and transcription chat 
 - FastAPI backend with real-time updates (WebSocket)  
 - Easy to extend: add knowledge bases, tools, or your own agent logic
 
