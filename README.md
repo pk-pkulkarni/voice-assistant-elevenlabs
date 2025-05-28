@@ -66,4 +66,9 @@ You can easily **extend** this assistant by adding new knowledgebases or integra
 ---
 
 ## 📄 Project Structure
-
+├── project_folder
+    └── main.py # FastAPI server, agent integration
+    ├── static/
+        └── index.html # Beautiful responsive frontend
+    ├── .env # Your ElevenLabs API keys
+    └── README.md
