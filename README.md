@@ -15,7 +15,8 @@ A conversational AI **voice assistant** built with [ElevenLabs](https://elevenla
 
 ## 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/d551ef01-4a01-40ee-8f02-4b866fc47bf3)
+![image](https://github.com/user-attachments/assets/dc707ddc-61c1-484f-b016-133177f372a8)
+
 
 ---
 
