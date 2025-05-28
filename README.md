@@ -1,6 +1,6 @@
 # 🗣️ ElevenLabs Voice Assistant (FastAPI + WebSockets)
 
-A conversational AI **voice assistant** built with [ElevenLabs](https://elevenlabs.io), [FastAPI](https://fastapi.tiangolo.com/), and a modern, responsive frontend. Talk to your custom agent in real time, either by **voice** or **text**!
+A conversational AI **voice assistant** built with [ElevenLabs](https://elevenlabs.io), [FastAPI](https://fastapi.tiangolo.com/), and a modern, responsive **custom frontend**. Talk to your custom agent in real time, by **voice**!
 
 ---
 
